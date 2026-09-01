@@ -633,13 +633,10 @@ Os arquivos relacionados às máquinas e ordens são organizados através de uma
 
 ![Manutenção Preventiva](docs/screenshots/manutencao-preventiva.png)
 
-### Aplicativo Mobile
+### Relatórios
 
-![Aplicativo Mobile](docs/screenshots/mobile.png)
+![Relatórios](docs/screenshots/relatorios.png)
 
-### Scanner QR Code
-
-![QR Code](docs/screenshots/qr-code.png)
 
 ---
 
