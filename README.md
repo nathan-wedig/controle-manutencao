@@ -615,8 +615,6 @@ Os arquivos relacionados às máquinas e ordens são organizados através de uma
 
 # Screenshots
 
-> Adicione capturas de tela da aplicação para demonstrar visualmente o funcionamento do sistema.
-
 ### Dashboard
 
 ![Dashboard](docs/screenshots/dashboard.png)
@@ -669,5 +667,3 @@ Algumas melhorias planejadas para evolução do projeto:
 # Licença
 
 Este projeto é disponibilizado para fins de **portfólio e demonstração técnica**.
-
-Caso você queira permitir reutilização, modificação ou distribuição do código, recomenda-se adicionar uma licença de software apropriada.
