@@ -1,0 +1,61 @@
+# ==============================
+# Backend (Spring Boot / Maven)
+# ==============================
+manutencaobackend/target/
+manutencaobackend/data/
+manutencaobackend/uploads/
+manutencaobackend/manutencaoanexos/
+manutencaobackend/logs/
+manutencaobackend/*.log
+manutencaobackend/.vscode/
+manutencaobackend/SERVER MANUTENCAO.exe
+manutencaobackend/aplicativomanutencao/
+
+# Build do frontend web incorporado ao backend
+manutencaobackend/src/main/resources/static/_expo/
+manutencaobackend/src/main/resources/static/assets/node_modules/
+
+# ==============================
+# Mobile (React Native / Expo)
+# ==============================
+manutencao-mobile/node_modules/
+manutencao-mobile/.expo/
+manutencao-mobile/dist/
+manutencao-mobile/web-build/
+manutencao-mobile/*.log
+manutencao-mobile/.expo-shared/
+manutencao-mobile/android/
+manutencao-mobile/ios/
+
+# ==============================
+# Env / secrets (NUNCA versionar)
+# ==============================
+.env
+.env.local
+.env.*.local
+!.env.example
+*.pem
+*.p12
+*.jks
+*.key
+*.mobileprovision
+
+# ==============================
+# Logs genéricos
+# ==============================
+*.log
+
+# ==============================
+# Documentação interna / arquivos locais
+# ==============================
+DOCUMENTACAO_TECNICA.md
+prompt.txt
+.opencode/
+
+# ==============================
+# IDE / OS
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
